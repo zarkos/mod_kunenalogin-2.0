@@ -55,6 +55,9 @@
 	display: block;
 	padding:0;
 }
+.klogin-horiz form{
+    display: inline-block;
+}
 .klogin-horiz li a {
 	text-decoration: none;
 	line-height: 1.3em;
@@ -158,4 +161,25 @@
 }
 .klogin-horiz span.klogin-lastdate {
 	font-weight: normal;
+}
+
+/* HORIZONTAL STYLE 2 */
+.klogin-logoutfield dl{
+    display: inline-block;
+    margin: 0;
+}
+.klogin-logoutfield dd{
+    float: left;
+    margin: 0;
+    width: 160px;
+}
+.klogin-horiz li.klogin-links ul{
+    width: 100%;
+}
+.klogin-horiz li.klogin-links ul li {
+	margin: 0 10px !important;
+    padding: 0 !important;
+	list-style: url(../images/arrow.png) !important;
+	text-decoration: none;
+	float:left !important;
 }
