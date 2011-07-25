@@ -94,7 +94,7 @@ defined('_JEXEC') or die();
                         <?php if(JPluginHelper::isEnabled('system', 'remember')) : ?>
                         <dd class="klogin-form-login-remember">
                             <label for="klogin-remember">
-				                <input class="klogin-remember" type="checkbox" name="remember" value="yes"
+				                <input id="klogin-remember" class="klogin-remember" type="checkbox" name="remember" value="yes"
                                        alt="<?php echo JText::_('MOD_KUNENALOGIN_REMEMBER_ME') ?>" />
 					                    <?php echo JText::_('MOD_KUNENALOGIN_REMEMBER_ME') ?>
                             </label>
