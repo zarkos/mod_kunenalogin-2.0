@@ -31,6 +31,7 @@
 			label="MOD_KUNENALOGIN_STYLE" description="MOD_KUNENALOGIN_STYLE_DESC">
 			<option value="vertical">MOD_KUNENALOGIN_VERTICAL</option>
 			<option value="horizontal">MOD_KUNENALOGIN_HORIZONTAL</option>
+            <option value="horizontal2">MOD_KUNENALOGIN_HORIZONTAL2</option>
 		</param>
 		<param name="pretext" type="textarea" cols="30" rows="3"
 			default="" label="MOD_KUNENALOGIN_PRE_TEXT" description="MOD_KUNENALOGIN_PRE_TEXT_DESC" />

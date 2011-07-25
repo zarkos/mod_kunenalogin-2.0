@@ -28,6 +28,9 @@ Legend:
 
 KunenaLogin 2.0.0-DEV
 
+25-July-2011 svanschu
++ [#1] another horizontal template
+
 30-March-2011 Matias
 # [#22073] Do not use deprecated CKunenaTimeformat class
 # [#22073] Do not use deprecated KunenaUser::getAvatarLink()
